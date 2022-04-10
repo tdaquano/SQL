@@ -1,0 +1,4 @@
+CREATE TABLE store (id INTEGER PRIMARY KEY, title TEXT, quanity INTEGER, price INTEGER, rating INTEGER);
+INSERT INTO store VALUES (1, "Misery", 5, 15.05, 2);
+INSERT INTO store VALUES (2, "IT", 3, 5.00, 1);
+INSERT INTO store VALUES (3, "Stand", 10, 7.00, 3);
